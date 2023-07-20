@@ -1,2 +1,2 @@
 # GDSc-Web-Application
-j viv ib big vuiuvyg
+j viv ib big vuiuvy
