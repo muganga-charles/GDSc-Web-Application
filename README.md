@@ -1,2 +1,2 @@
 # GDSc-Web-Application
-j vi
+j v
