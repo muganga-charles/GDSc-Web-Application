@@ -1,2 +1,2 @@
 # GDSc-Web-Application
-A project i did at the end
+A project i did
