@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+
 // get voters
 import AdminDisplay from './Components/Pages/Admins/Lead/AdminDisplay'
 import Datadisplay from './Components/Pages/Admins/Lead/Datadisplay'
