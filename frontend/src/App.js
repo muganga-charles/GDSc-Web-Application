@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react';
-// import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 // get voters
 import AdminDisplay from './Components/Pages/Admins/Lead/AdminDisplay'
